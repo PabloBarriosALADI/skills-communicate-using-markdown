@@ -3,3 +3,4 @@
 <script>
 var myVar = "Hello, world!";
 </script>
+
